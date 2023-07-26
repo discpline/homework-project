@@ -1,4 +1,4 @@
 import math
-Radius = int(input("Введите значение радиуса - "))
-Dlina_okryzhnosti = 2 * math.pi * Radius
-print(Dlina_okryzhnosti)
+radius = int(input("Введите значение радиуса - "))
+dlina_okryzhnosti = 2 * math.pi * radius
+print(dlina_okryzhnosti)
